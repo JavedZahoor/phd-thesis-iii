@@ -1,4 +1,5 @@
 """
+https://github.com/danielhomola/mifs
 Parallelized Mutual Information based Feature Selection module.
 
 Author: Daniel Homola <dani.homola@gmail.com>

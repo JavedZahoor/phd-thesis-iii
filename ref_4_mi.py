@@ -1,4 +1,5 @@
 """
+https://github.com/danielhomola/mifs
 Methods for calculating Mutual Information in an embarrassingly parallel way.
 
 Author: Daniel Homola <dani.homola@gmail.com>
