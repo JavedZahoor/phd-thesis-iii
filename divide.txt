@@ -1,0 +1,614 @@
+Calling LoadDataSet
+LoadDataSet function took 37149.513 ms
+10
+MRMR
+MLP logistic sgd
+Time it took to train: 
+0.0283510684967
+Accuracy scores: 
+0.693181818182
+AdaBoostClassifier
+Time it took to train: 
+0.0992460250854
+Accuracy scores: 
+0.977272727273
+DT classifier
+Time it took to train: 
+0.000345945358276
+
+Accuracy scores: 
+0.920454545455
+Extra tree classifier
+Time it took to train: 
+0.0254619121552
+
+Accuracy scores: 
+0.943181818182
+Random Forest
+Time it took to train: 
+0.341902971268
+Accuracy scores: 
+0.965909090909
+SVM SVC
+Time it took to train: 
+0.0003821849823
+Accuracy scores: 
+0.977272727273
+50
+MRMR
+MLP logistic sgd
+Time it took to train: 
+0.00408101081848
+Accuracy scores: 
+0.704545454545
+AdaBoostClassifier
+Time it took to train: 
+0.105323076248
+Accuracy scores: 
+0.965909090909
+DT classifier
+Time it took to train: 
+0.000978946685791
+
+Accuracy scores: 
+0.920454545455
+Extra tree classifier
+Time it took to train: 
+0.0244529247284
+
+Accuracy scores: 
+0.977272727273
+Random Forest
+Time it took to train: 
+0.0265297889709
+Accuracy scores: 
+0.977272727273
+SVM SVC
+Time it took to train: 
+0.000696182250977
+Accuracy scores: 
+0.977272727273
+100
+MRMR
+MLP logistic sgd
+Time it took to train: 
+0.0597870349884
+Accuracy scores: 
+0.727272727273
+AdaBoostClassifier
+Time it took to train: 
+0.117074966431
+Accuracy scores: 
+0.965909090909
+DT classifier
+Time it took to train: 
+0.00198197364807
+
+Accuracy scores: 
+0.931818181818
+Extra tree classifier
+Time it took to train: 
+0.0243961811066
+
+Accuracy scores: 
+0.977272727273
+Random Forest
+Time it took to train: 
+0.0261058807373
+Accuracy scores: 
+0.977272727273
+SVM SVC
+Time it took to train: 
+0.000861883163452
+Accuracy scores: 
+0.977272727273
+150
+MRMR
+MLP logistic sgd
+Time it took to train: 
+0.0168449878693
+Accuracy scores: 
+0.681818181818
+AdaBoostClassifier
+Time it took to train: 
+0.0886719226837
+Accuracy scores: 
+0.965909090909
+DT classifier
+Time it took to train: 
+0.00252795219421
+
+Accuracy scores: 
+0.931818181818
+Extra tree classifier
+Time it took to train: 
+0.0160441398621
+
+Accuracy scores: 
+0.988636363636
+Random Forest
+Time it took to train: 
+0.0174140930176
+Accuracy scores: 
+0.943181818182
+SVM SVC
+Time it took to train: 
+0.000870943069458
+Accuracy scores: 
+0.977272727273
+200
+MRMR
+MLP logistic sgd
+Time it took to train: 
+0.0274920463562
+Accuracy scores: 
+0.681818181818
+AdaBoostClassifier
+Time it took to train: 
+0.099781036377
+Accuracy scores: 
+0.965909090909
+DT classifier
+Time it took to train: 
+0.00241613388062
+
+Accuracy scores: 
+0.920454545455
+Extra tree classifier
+Time it took to train: 
+0.0162980556488
+
+Accuracy scores: 
+0.988636363636
+Random Forest
+Time it took to train: 
+0.0174880027771
+Accuracy scores: 
+0.954545454545
+SVM SVC
+Time it took to train: 
+0.00106406211853
+Accuracy scores: 
+0.977272727273
+250
+MRMR
+MLP logistic sgd
+Time it took to train: 
+0.0100541114807
+Accuracy scores: 
+0.670454545455
+AdaBoostClassifier
+Time it took to train: 
+0.107313156128
+Accuracy scores: 
+0.965909090909
+DT classifier
+Time it took to train: 
+0.00298810005188
+
+Accuracy scores: 
+0.931818181818
+Extra tree classifier
+Time it took to train: 
+0.0161521434784
+
+Accuracy scores: 
+0.965909090909
+Random Forest
+Time it took to train: 
+0.0182249546051
+Accuracy scores: 
+0.954545454545
+SVM SVC
+Time it took to train: 
+0.00126504898071
+Accuracy scores: 
+0.977272727273
+10
+JMI
+MLP logistic sgd
+Time it took to train: 
+0.0705568790436
+Accuracy scores: 
+0.875
+AdaBoostClassifier
+Time it took to train: 
+0.0628609657288
+Accuracy scores: 
+0.965909090909
+DT classifier
+Time it took to train: 
+0.00022292137146
+
+Accuracy scores: 
+0.977272727273
+Extra tree classifier
+Time it took to train: 
+0.0158870220184
+
+Accuracy scores: 
+0.965909090909
+Random Forest
+Time it took to train: 
+0.0165491104126
+Accuracy scores: 
+0.977272727273
+SVM SVC
+Time it took to train: 
+0.000363111495972
+Accuracy scores: 
+0.977272727273
+50
+JMI
+MLP logistic sgd
+Time it took to train: 
+0.0812339782715
+Accuracy scores: 
+0.886363636364
+AdaBoostClassifier
+Time it took to train: 
+0.0698208808899
+Accuracy scores: 
+0.965909090909
+DT classifier
+Time it took to train: 
+0.000746011734009
+
+Accuracy scores: 
+0.943181818182
+Extra tree classifier
+Time it took to train: 
+0.0159130096436
+
+Accuracy scores: 
+1.0
+Random Forest
+Time it took to train: 
+0.016930103302
+Accuracy scores: 
+1.0
+SVM SVC
+Time it took to train: 
+0.000497102737427
+Accuracy scores: 
+0.977272727273
+100
+JMI
+MLP logistic sgd
+Time it took to train: 
+0.0913591384888
+Accuracy scores: 
+0.909090909091
+AdaBoostClassifier
+Time it took to train: 
+0.0792591571808
+Accuracy scores: 
+0.965909090909
+DT classifier
+Time it took to train: 
+0.00110912322998
+
+Accuracy scores: 
+0.931818181818
+Extra tree classifier
+Time it took to train: 
+0.0159180164337
+
+Accuracy scores: 
+1.0
+Random Forest
+Time it took to train: 
+0.0172429084778
+Accuracy scores: 
+0.977272727273
+SVM SVC
+Time it took to train: 
+0.000686883926392
+Accuracy scores: 
+0.977272727273
+150
+JMI
+MLP logistic sgd
+Time it took to train: 
+0.0569341182709
+Accuracy scores: 
+0.897727272727
+AdaBoostClassifier
+Time it took to train: 
+0.0876488685608
+Accuracy scores: 
+0.977272727273
+DT classifier
+Time it took to train: 
+0.00159406661987
+
+Accuracy scores: 
+0.943181818182
+Extra tree classifier
+Time it took to train: 
+0.0164380073547
+
+Accuracy scores: 
+1.0
+Random Forest
+Time it took to train: 
+0.0173292160034
+Accuracy scores: 
+0.988636363636
+SVM SVC
+Time it took to train: 
+0.000866174697876
+Accuracy scores: 
+0.977272727273
+200
+JMI
+MLP logistic sgd
+Time it took to train: 
+0.0333578586578
+Accuracy scores: 
+0.75
+AdaBoostClassifier
+Time it took to train: 
+0.0971398353577
+Accuracy scores: 
+0.977272727273
+DT classifier
+Time it took to train: 
+0.00208306312561
+
+Accuracy scores: 
+0.931818181818
+Extra tree classifier
+Time it took to train: 
+0.0159211158752
+
+Accuracy scores: 
+0.988636363636
+Random Forest
+Time it took to train: 
+0.0174491405487
+Accuracy scores: 
+0.977272727273
+SVM SVC
+Time it took to train: 
+0.00105500221252
+Accuracy scores: 
+0.977272727273
+250
+JMI
+MLP logistic sgd
+Time it took to train: 
+0.0330059528351
+Accuracy scores: 
+0.681818181818
+AdaBoostClassifier
+Time it took to train: 
+0.104892015457
+Accuracy scores: 
+0.977272727273
+DT classifier
+Time it took to train: 
+0.0025429725647
+
+Accuracy scores: 
+0.931818181818
+Extra tree classifier
+Time it took to train: 
+0.0162320137024
+
+Accuracy scores: 
+0.977272727273
+Random Forest
+Time it took to train: 
+0.0174190998077
+Accuracy scores: 
+0.977272727273
+SVM SVC
+Time it took to train: 
+0.00125002861023
+Accuracy scores: 
+0.977272727273
+10
+JMIM
+MLP logistic sgd
+Time it took to train: 
+0.00274682044983
+Accuracy scores: 
+0.681818181818
+AdaBoostClassifier
+Time it took to train: 
+0.0637009143829
+Accuracy scores: 
+0.965909090909
+DT classifier
+Time it took to train: 
+0.000230073928833
+
+Accuracy scores: 
+0.965909090909
+Extra tree classifier
+Time it took to train: 
+0.0159380435944
+
+Accuracy scores: 
+0.965909090909
+Random Forest
+Time it took to train: 
+0.0172441005707
+Accuracy scores: 
+0.988636363636
+SVM SVC
+Time it took to train: 
+0.000356912612915
+Accuracy scores: 
+0.977272727273
+50
+JMIM
+MLP logistic sgd
+Time it took to train: 
+0.00462102890015
+Accuracy scores: 
+0.681818181818
+AdaBoostClassifier
+Time it took to train: 
+0.070643901825
+Accuracy scores: 
+0.977272727273
+DT classifier
+Time it took to train: 
+0.000859022140503
+
+Accuracy scores: 
+0.943181818182
+Extra tree classifier
+Time it took to train: 
+0.0159840583801
+
+Accuracy scores: 
+0.977272727273
+Random Forest
+Time it took to train: 
+0.0170230865479
+Accuracy scores: 
+0.977272727273
+SVM SVC
+Time it took to train: 
+0.000498056411743
+Accuracy scores: 
+0.977272727273
+100
+JMIM
+MLP logistic sgd
+Time it took to train: 
+0.00440001487732
+Accuracy scores: 
+0.681818181818
+AdaBoostClassifier
+Time it took to train: 
+0.0796620845795
+Accuracy scores: 
+0.977272727273
+DT classifier
+Time it took to train: 
+0.00127911567688
+
+Accuracy scores: 
+0.909090909091
+Extra tree classifier
+Time it took to train: 
+0.0163397789001
+
+Accuracy scores: 
+0.954545454545
+Random Forest
+Time it took to train: 
+0.017315864563
+Accuracy scores: 
+1.0
+SVM SVC
+Time it took to train: 
+0.000684976577759
+Accuracy scores: 
+0.977272727273
+150
+JMIM
+MLP logistic sgd
+Time it took to train: 
+0.00513005256653
+Accuracy scores: 
+0.670454545455
+AdaBoostClassifier
+Time it took to train: 
+0.0888679027557
+Accuracy scores: 
+0.965909090909
+DT classifier
+Time it took to train: 
+0.00133895874023
+
+Accuracy scores: 
+0.931818181818
+Extra tree classifier
+Time it took to train: 
+0.0175650119781
+
+Accuracy scores: 
+0.977272727273
+Random Forest
+Time it took to train: 
+0.0174407958984
+Accuracy scores: 
+0.954545454545
+SVM SVC
+Time it took to train: 
+0.000862121582031
+Accuracy scores: 
+0.977272727273
+200
+JMIM
+MLP logistic sgd
+Time it took to train: 
+0.00440001487732
+Accuracy scores: 
+0.681818181818
+AdaBoostClassifier
+Time it took to train: 
+0.0979220867157
+Accuracy scores: 
+0.965909090909
+DT classifier
+Time it took to train: 
+0.00174379348755
+
+Accuracy scores: 
+0.954545454545
+Extra tree classifier
+Time it took to train: 
+0.0167369842529
+
+Accuracy scores: 
+0.977272727273
+Random Forest
+Time it took to train: 
+0.01753282547
+Accuracy scores: 
+0.977272727273
+SVM SVC
+Time it took to train: 
+0.00105595588684
+Accuracy scores: 
+0.977272727273
+250
+JMIM
+MLP logistic sgd
+Time it took to train: 
+0.0129089355469
+Accuracy scores: 
+0.681818181818
+AdaBoostClassifier
+Time it took to train: 
+0.106578111649
+Accuracy scores: 
+0.965909090909
+DT classifier
+Time it took to train: 
+0.00214004516602
+
+Accuracy scores: 
+0.943181818182
+Extra tree classifier
+Time it took to train: 
+0.0161628723145
+
+Accuracy scores: 
+0.943181818182
+Random Forest
+Time it took to train: 
+0.0175359249115
+Accuracy scores: 
+0.954545454545
+SVM SVC
+Time it took to train: 
+0.00125002861023
+Accuracy scores: 
+0.977272727273
