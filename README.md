@@ -1,17 +1,21 @@
 # phd-thesis-iii
-Simple Agenda as follows
 
-## __Implement mRMR to reduce dataset - done (JMIM, JMI, mRMR usinc scikit)__
+## Done
+### Implement mRMR to reduce dataset - done (JMIM, JMI, mRMR usinc scikit)
+### Implement Ensemble - done (using scikit and both soft ensemble using accuracy based weightage and hard ensemble with 1 vote each)
 
-## Implement Treelet Clustering on reduced dataset
+## Not Done
+### Implement Treelet Clustering on reduced dataset
+### Use reliability based error measure for training and validation 
 
-## Implement SVM | LDA | ANT | ANT Miner | BAT | BAT Miner on the reduced dataset - __ PSO not yet applied for Feature Selection, classifiers used so far are SVM | ExtraTree | RF | MLP | AdaBoost and Decision Tree __
+## Partially Done
+### Implement SVM | LDA | ANT | ANT Miner | BAT | BAT Miner on the reduced dataset 
+PSO not yet applied for Feature Selection, classifiers used so far are SVM | ExtraTree | RF | MLP | AdaBoost and Decision Tree 
 
-## Use reliability based error measure for training and validation 
+### Produce Results and Fine Tune
+Fine Tuning still in progress
 
-## __Implement Ensemble - done __
 
-## Produce Results and Fine Tune - __ Fine Tuning still in progress__
 
 # Progress Tracking
 ## Oct 2016
